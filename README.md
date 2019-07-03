@@ -15,4 +15,4 @@ Feel free to contribute
 - Submit Pull Request
 
 # Report
-Report an [error](https://github.com/imsnawaz/Hackerrank-Solutions/issues).
+Report an [error](https://github.com/imsnawaz/GeeksForGeeks-Sudo-Placement-2019-Solutions/issues).
